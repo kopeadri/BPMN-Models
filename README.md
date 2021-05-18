@@ -1,5 +1,11 @@
 # BPMN-Models
 
+## Struktura
+- [app.py]() - główny plik programu
+- [reading_from_file]() - ładowanie danych z pliku
+- [getting_relations]() - odkrywanie relacji
+- [graph.py]() - tworzenie modelu w postaci grafu
+
 ## Instalacja
 1. Flask
   `$ pip install flask`
