@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+	<head>
+
+		<meta charset="UTF-8">
+		<title>BPMN Model</title>
+
+	</head>
+ 
+	<body>
+ 
+		<h1> BPMN Model </h1>
+		
+		<form method="POST">
+			<input type="file" name="file_name" accept=".csv,.xes">
+			<input type="submit" value="Załaduj"/>
+		</form>
+		
+		<img src="{{url_for('static', filename=file_name)}}" alt=''>
+		
+	</body>
+ 
+</html>
