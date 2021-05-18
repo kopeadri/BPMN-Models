@@ -11,8 +11,7 @@
   `$ pip install flask`
 2. OpyenXes
   `$ pip install opyenxes`
-3. PyGraphviz
-  Zgodnie z instrukcjami na [stronie](https://pygraphviz.github.io/documentation/stable/install.html#install)
+3. PyGraphviz - zgodnie z instrukcjami na [stronie](https://pygraphviz.github.io/documentation/stable/install.html#install)
 
 ## Uruchomienie
 1. W konsoli:
