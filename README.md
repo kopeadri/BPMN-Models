@@ -23,3 +23,9 @@
 Wszystkie pliki powinny znajdować się w katalogu _resources_.
 Należy wybrać plik za pomocą przycisku _Przeglądaj..._, a następnie potwierdzić przyciskiem "Załaduj". 
 Zostanie wyświetlony model zbudowany na podstawie logów z pliku.
+
+## Informacje dodatkowe
+Projekt został zrealizowany w ramach ćwiczeń na Modelowanie Biznesowe (AGH, EAIiIB, Informatyka i Systemy Inteligentne - Inżynieria Oprogramowania, rok akademicki 2020/2021) pod opieką dr inż. Krzysztofa Kluzy.
+
+Autorki: Adrianna Kopeć, Anna Nagi
+
